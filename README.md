@@ -26,6 +26,7 @@ Desarrollar, entrenar y evaluar modelos de **Machine Learning** y **Procesamient
 - 📘 **Pandas**, **NumPy**
 - 🤖 **Scikit-learn**
 - 🧠 **TF-IDF Vectorization**
+- 🤖 **XGBoots
 - 📊 **Matplotlib / Seaborn**
 - 💾 **Kaggle Datasets**
 - ☁️ **Google Colab / Jupyter Notebooks**
@@ -33,4 +34,7 @@ Desarrollar, entrenar y evaluar modelos de **Machine Learning** y **Procesamient
 ---
 
 ## 🧱 Estructura del Proyecto
-
+ 1*Como primer paso : Revisamos la competicion los objetivos 
+ 2*Como segundo paso : Realizamos una investigacion de todos los metodos posibles
+ 3*Como tercer poso probamos los metodos que nos parecieron mas adecuados
+ 4*como cuarto paso : Implementamos solucion y evaluamos resultados
